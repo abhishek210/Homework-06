@@ -1,2 +1,2 @@
 # Host-Link
-https://homework-06-fs-04.vercel.app/
+https://fastidious-lily-370ebe.netlify.app/
